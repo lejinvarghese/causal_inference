@@ -10,7 +10,7 @@ PyMC3 educational resources, including the PyMC3 port of the following books (or
 
 
 
-# License
+## License
 
 Unless otherwise stated in the directory containing the codes, all codes are copyrighted by their author(s) under MIT license.
 
