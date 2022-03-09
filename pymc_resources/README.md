@@ -1,4 +1,5 @@
 # PyMC3 Resources
+
 PyMC3 educational resources, including the PyMC3 port of the following books (original models in STAN/BUGS/JAGS etc,.):
 
 -  [PyMC3 port of the book "Statistical Rethinking" by Richard McElreath (first edition)](https://github.com/pymc-devs/resources/tree/master/Rethinking)
@@ -10,4 +11,8 @@ PyMC3 educational resources, including the PyMC3 port of the following books (or
 
 
 # License
+
 Unless otherwise stated in the directory containing the codes, all codes are copyrighted by their author(s) under MIT license.
+
+Forked and merged in from:
+[pymc-devs/resources](https://github.com/pymc-devs/resources)
