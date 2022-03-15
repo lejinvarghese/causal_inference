@@ -10,3 +10,4 @@ Samples notebooks and references related to the field of Causal Inference.
   - [local](statistical_rethinking/resources/pymc)
 - [Design of Obersvational Studies](https://www.goodreads.com/book/show/7047195-design-of-observational-studies?ac=1&from_search=true&qid=OtB9UGzgFZ&rank=1)
 - [Shopify: PSM Case Study](https://shopify.engineering/propensity-score-matching-shopify-capital)
+- [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
