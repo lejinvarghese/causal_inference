@@ -3,7 +3,7 @@
 ## Instrumental Variables
 
 ```mermaid
-     flowchart TD;
+     flowchart LR;
         A --> Y;
         U --> A;
         U --> Y;
@@ -12,7 +12,7 @@
 ```
 
 ```mermaid
-     flowchart TD;
+     flowchart LR;
         A --> Y;
         Z --> A;
         X --> A;
