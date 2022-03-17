@@ -2,6 +2,11 @@
 
 ## Instrumental Variables
 
+ - Unmeasured Confounders `U`
+ - Measured confounders `X`
+ - Treament `A`
+ - Outcome `Y `
+
 ```mermaid
      flowchart LR;
         A --> Y;
