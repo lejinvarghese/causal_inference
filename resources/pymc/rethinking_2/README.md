@@ -29,6 +29,16 @@ Activate the environment by running:
 
     conda activate stat_rethinking
 
+Activate Jupyter Lab by running:
+
+    python -m ipykernel install --user --name stat_rethinking
+    jupyter lab
+
+## Course Schedule
+
+![course_schedule](./data/course_schedule.png)
 ---
+
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span>Statistical Rethinking with Python and PyMC3</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3/graphs/contributors" property="cc:attributionName" rel="cc:attributionURL">All Contributors</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
