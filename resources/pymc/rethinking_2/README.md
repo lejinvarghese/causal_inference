@@ -34,9 +34,9 @@ Activate Jupyter Lab by running:
     python -m ipykernel install --user --name stat_rethinking
     jupyter lab
 
-## Course Schedule
+<!-- ## Course Schedule
 
-![course_schedule](./data/course_schedule.png)
+![course_schedule](./data/course_schedule.png) -->
 ---
 
 
