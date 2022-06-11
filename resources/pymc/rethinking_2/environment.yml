@@ -5,6 +5,9 @@ dependencies:
     - jupyterlab
     - seaborn
     - mkl-service
+    - graphviz
+    - python-graphviz
+    - pydot
     - pip
     - pip:
           - watermark
